@@ -1,0 +1,1 @@
+/home/rsbdev/workspace/nik_ws/m20_ws/build/m20_description/ament_cmake_core/m20_descriptionConfig-version.cmake

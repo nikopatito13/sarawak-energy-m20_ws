@@ -1,0 +1,1 @@
+/home/rsbdev/workspace/nik_ws/m20_ws/build/pipeline_sim/ament_cmake_core/pipeline_simConfig-version.cmake

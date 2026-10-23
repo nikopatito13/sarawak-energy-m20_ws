@@ -1,0 +1,5 @@
+<sdf version="1.9"><model name="pipeline"><static>true</static>
+  <link name="link">
+    <visual name="v"><geometry><mesh><uri>meshes/pipes-cleaned.glb</uri></mesh></geometry></visual>
+    <collision name="c"><geometry><mesh><uri>meshes/pipes-cleaned.glb</uri></mesh></geometry></collision>
+  </link></model></sdf>
